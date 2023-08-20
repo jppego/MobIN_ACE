@@ -17,7 +17,8 @@ I developed a Google Form which would collect all the change requests of a stude
 *[MobIN_ACE_Formulário](https://docs.google.com/forms/d/e/1FAIpQLSe0ugYxuKdMYWdMI9H4qkoffLCguVfwXp5AsCvEUQYZbojfBA/viewform?usp=sf_link) - Google Form in English Language
 
 *[MobIN_ACE_Formulário (Responses)](https://docs.google.com/spreadsheets/d/1VTs3IOm-pJi9RQmUtZwm4XYs-w9tnV2muGvPd5uy5hw/edit?resourcekey#gid=94032695) - MobIN_ACE_Formulário responses sheet which processes the requests and sends the emails
-*[ERASMUS_UC](https://docs.google.com/spreadsheets/d/1HdWqlA2qvmfgUANHFDvL5kk1qUbGoR6PDbu6gOM-eOo/edit#gid=0) - List of course units with available places and languages of teaching
+
+*[ERASMUS_UC](https://docs.google.com/spreadsheets/d/1HdWqlA2qvmfgUANHFDvL5kk1qUbGoR6PDbu6gOM-eOo/edit#gid=0) - List of course units with available places and languages of teaching. A set of scripts in this sheet was used to update the list of course units and countries that populate the Google forms
 
 *[ERASMUS_UC_CURSOS](https://docs.google.com/spreadsheets/d/1vXzdrvfaqW5yN0T40y_tR7OfcVC0-KaYqiY6frIZNBA/edit#gid=0) - List of course units with available places and languages of teaching for individual programmes
 
