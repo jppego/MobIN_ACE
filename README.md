@@ -12,7 +12,7 @@ I developed a Google Form which would collect all the change requests of a stude
 
 *[MobIN_ACE_Form](https://docs.google.com/forms/d/e/1FAIpQLScyuqvBg3y0G6dxkkz6tXbCH2IwM7BMJ4-57zVGA3TElClhTQ/viewform?usp=sf_link) - Google Form in English Language
 
-*[MobIN_ACE_Form (Responses)](https://docs.google.com/spreadsheets/d/194y625fikvXNE06n4Ela8iUTUbd6Znz_56ihwJ_rmjw/edit#gid=1865013870) - MobIN_ACE_Form responses sheet which processes the requests and sends the emails. Two triggers were used to send the emails. On submission of the google form, the email for the student was sent. A second trigger was used every night, to send the day's request to the coordinators.
+*[MobIN_ACE_Form (Responses)](https://docs.google.com/spreadsheets/d/194y625fikvXNE06n4Ela8iUTUbd6Znz_56ihwJ_rmjw/edit#gid=1865013870) - MobIN_ACE_Form responses sheet which processes the requests and sends the emails. Two triggers were used to send the emails using an Apps Script [MobIN_ACE_Form.gs](MobIN_ACE_Form.gs). On submission of the google form, the email for the student was sent. A second trigger was used every night, to send the day's request to the coordinators.
 
 *[MobIN_ACE_Formulário](https://docs.google.com/forms/d/e/1FAIpQLSe0ugYxuKdMYWdMI9H4qkoffLCguVfwXp5AsCvEUQYZbojfBA/viewform?usp=sf_link) - Google Form in English Language
 
