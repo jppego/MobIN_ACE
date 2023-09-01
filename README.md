@@ -8,7 +8,7 @@ I worked as ERAMUS local coordinator for my faculty, one of 14 of the university
 Upon arrival, incoming mobility students needed to make changes to the learning agreements using our information system. Once the change to the learning agreement (ACE in the Portuguese acronym) request was submitted only the university's international relations office (IRO) was able to reopen it. To avoid too many interactions, the faculty's IRO asked students to validate the changes with the programme mobility coordinators before submitting the ACE request in the information system. Initially, this process would use email or personal contact, which was tiresome and inefficient. 
 
 # Project description
-I developed a Google Form which would collect all the change requests of a student (deletion/addition of course units) and send the requests to each programme mobility coordinator per email. The Google Form was fead by an auxiliar Google Sheet.
+I developed a Google Form which would collect all the change requests of a student (deletion/addition of course units) and send the requests to each programme mobility coordinator per email. The Google Form was fed by an auxiliar Google Sheet.
 
 *[MobIN_ACE_Form](https://docs.google.com/forms/d/e/1FAIpQLScyuqvBg3y0G6dxkkz6tXbCH2IwM7BMJ4-57zVGA3TElClhTQ/viewform?usp=sf_link) - Google Form in English Language
 
